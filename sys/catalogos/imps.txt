@@ -1,0 +1,4 @@
+c_Impuesto	Descripción
+001	ISR
+002	IVA
+003	IEPS

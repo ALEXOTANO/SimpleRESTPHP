@@ -1,0 +1,10 @@
+=== EXCEL: usar unis meds como ejemplo para este 
+1. Hacer una planilla de excel con los datos listos para importar. 	
+	En columnas
+2. Correr el script de PHP que lea esos campos. 
+3. Ejemplo: el unis_meds.xlsx eusado por el unis_meds.php, sin tener relacion por el nombre
+
+=== TXT: separado por tabs (usar el caso de pros_srvs.php)
+1. Crear un excel con las columnas 
+2. Guardarlo como txt separado por tabs
+3. Importarlo usando php.

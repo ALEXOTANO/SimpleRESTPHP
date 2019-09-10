@@ -1,0 +1,2419 @@
+c_ClaveUnidad	Nombre
+18	Tambor de cincuenta y cinco galones (EUA)
+19	Camión cisterna
+26	Tonelada real
+29	Libra por mil pies cuadrados
+30	Día de potencia de caballos por tonelada métrica de aire seco
+31	Pescar
+32	Kilogramo por tonelada métrica seca del aire
+36	Pie cúbico por minuto por pie cuadrado
+44	Bolsa a granel de quinientos kilos
+45	Bolsa a granel de trescientos kilos
+46	Bolsa a granel de cincuenta libras
+47	Bolso de cincuenta libras
+48	Carga masiva
+53	Kilogramo teórico
+54	Tonelada teórica (UK)
+62	Por ciento por 1000 horas
+63	Tasa de fracaso en el tiempo
+64	"Libra por pulgada cuadrada, calíbre"
+66	Oersted
+69	Escala específica de prueba
+71	Voltios amperios por libra
+72	Vatio por libra
+73	Amperios por centímetro
+76	Gauss
+78	Kilogauss
+84	Kilopound-force por pulgada cuadrada
+90	Saybold segundo universal
+92	Calorías por centímetro cúbico
+93	Calorías por gramo
+94	Unidad de curl
+95	Veinte mil galones
+96	Diez mil galones (US)
+97	Diez kilos de tambor
+98	Quince kilos de tambor
+05	Ascensor
+06	Pequeño aerosol
+08	Montón de calor
+10	Grupos
+11	Equipos
+13	Raciones
+14	Shot
+15	"Palo, medida militar."
+16	Tambor de 115 kilogramos
+17	Tambor de cien libras
+1A	Milla de carros
+1B	Recuento de automóviles
+1C	Conteo de locomotoras
+1D	Caboose count
+1E	Coche vacío
+1F	Milla de tren
+1G	Galón del uso del combustible (los EUA)
+1H	Milla de caboose
+1I	 Tipo de interés fijo
+1J	Tonelada milla
+1K	Milla locomotora
+1L	Recuento total de automóviles
+1M	Milla total del coche
+1X	Cuarto de milla
+20	 Contenedores de veinte pies
+21	 Contenedor de cuarenta pies
+22	Decilitro por gramo
+23	Gramo por centímetro cúbico
+24	Libra teórica
+25	Gramo por centímetro cuadrado
+27	Tonelada teórica
+28	Kilogramo por metro cuadrado
+2A	Radián por segundo
+2B	Radián por segundo cuadrado
+2C	Roentgen
+2G	Voltios CA
+2H	Voltios CD
+2I	Unidad térmica británica (tabla internacional) por hora
+2J	Centímetro cúbico por segundo
+2K	Pie cúbico por hora
+2L	Pie cúbico por minuto
+2M	Centímetro por segundo
+2N	Decibel
+2P	Kilobyte
+2Q	Kilobecquerel
+2R	Kilocurie
+2U	Megagramo
+2V	Megagrama por hora
+2X	Metro por minuto
+2Y	Milliroentgen
+2Z	Milivoltio
+33	Kilopascal por grtr
+34	Kilopascal por milimetro
+35	Milimetro por un segundo centimetro cuadrado
+37	Onza por pie cuadrado
+38	"Onzas por pie cuadrado por 0,01 pulgadas"
+3B	Megajoule
+3C	Manmonth
+3E	Libra por libra de producto
+3G	Libra por pieza de producto
+3H	Kilogramo por kilogramo de producto
+3I	Kilogramo por pedazo de producto
+40	Mililitro por segundo
+41	Mililitro por minuto
+4B	Gorra
+4C	Centistokes
+4E	Veinte pack
+4G	Microlitro
+4H	Micra
+4K	Miliamperio
+4L	Megabyte
+4M	Miligramo por hora
+4N	Megabequerel
+4O	Microfaradio
+4P	Newton por metro
+4Q	Onza pulgada
+4R	Onza pie
+4T	Picofaradio
+4U	Libra por hora
+4W	Tonelada (EUA) por hora
+4X	Kilolitro por hora
+56	Sitas
+57	Malla
+58	 kilogramo neto
+59	Parte por millón
+5A	Barril por minuto
+5B	Batch
+5C	Galón (US) por mil
+5E	Mmscf/day
+5F	Libra por mil
+5G	bomba
+5H	Escenario
+5I	Pies cúbicos estándar
+5J	Caballos de potencia hidráulica
+5K	Contar por minuto
+5P	Nivel sísmico
+5Q	Línea sísmica
+60	Tanto por ciento en peso
+61	Parte por mil millones (EUA)
+74	Milipascal
+77	Mili-pulgada
+80	Libra por pulgada cuadrado absoluta
+81	Henry
+85	Pie libra-fuerza
+87	Libra por pie cúbico
+89	Poise
+91	Stokes
+A1	15 ° C calorías
+A10	Amperio por metro cuadrado por joule segundo
+A11	Ángstrom
+A12	Unidad astronómica
+A13	Attojoule
+A14	Barn
+A15	Barn por electrovoltio
+A16	Barn por electrovoltio 
+A17	Barn por esteroradian
+A18	Becquerel por kilogramo
+A19	Becquerel por metro cúbico
+A2	Amperio por centímetro
+A20	Unidad térmica británica (tabla internacional) por segundo pie cuadrado grado rankine.
+A21	Unidad térmica británica (tabla internacional) por libra grado rankine
+A22	Unidad térmica británica (tabla internacional) por segundo pie grado rankine
+A23	Unidad térmica británica (tabla internacional) por hora pie cuadrado grado rankine.
+A24	Candela por metro cuadrado
+A25	Caballo de vapor
+A26	Culombio metro
+A27	Culombio metro cuadrado por voltio
+A28	Culombio por centímetro cúbico
+A29	Culombio por metro cúbico
+A3	Amperio por milímetro
+A30	Culombio por milimetro cúbico
+A31	Culombio por kilogramo-segundo
+A32	Culombio por Mol
+A33	Culombio por centímetro cuadrado
+A34	Culombio por metro cuadrado
+A35	Culombio por milímetro cuadrado
+A36	Centimetro cúbico por Mol
+A37	Decimetro cuadrado por Mol
+A38	Cubic pooulo p
+A39	Metro cúbico por kilogramo
+A4	Amperio por centímetro cuadrado
+A40	Metro cubbico por Mol
+A41	Amperio por metro cuadrado
+A42	Curie por kilogramo
+A43	Tonelaje de peso muerto
+A44	Decalitro
+A45	Decámetro
+A47	Decitex
+A48	Grado rankine
+A49	Negador
+A5	Amperio metro cuadrado
+A50	Dina segundo por centímetro cúbico
+A51	Dina segundo por centímetro
+A52	Dina segundo por centímetro a la quinta potencia
+A53	Electrónvoltio
+A54	Electrovoltio por metro
+A55	Electrovoltio por metro cuadrado
+A56	Electrovoltio metro cuadrado por kilogramo
+A57	Ergio
+A58	Erg por centímetro
+A59	La cobertura de nubes 8-parte
+A6	Amperio por metro cuadrado Kelvin cuadrado
+A60	Erg por centímetro cúbico
+A61	Erg por gramo
+A62	Erg por segundo gramo
+A63	Erg por segundo
+A64	Erg por segundo centímetro cuadrado
+A65	Erg por centímetro cuadrado segundo
+A66	Erg centímetro cuadrado
+A67	Erg centímetro cuadrado por gramo
+A68	Exajoule
+A69	Faradio por metro
+A7	Amperio por milímetro cuadrado
+A70	Femtojoule
+A71	Femtómetro
+A73	Pie por segundo al cuadrado
+A74	Pie libra-fuerza por segundo
+A75	Tonelada de carga
+A76	Galón
+A77	Gaussian CGS (Centímetro-Gram-Segundo sistema) unidad de desplazamiento
+A78	Gaussiano CGS (Centímetro-Gram-Segundo sistema) unidad de corriente eléctrica
+A79	Gaussian CGS (Centímetro-Gram-Segundo sistema) unidad de carga eléctrica
+A8	Amperio segundo
+A80	Gaussiano CGS (Centímetro-Gram-Segundo sistema) unidad de la fuerza del campo eléctrico
+A81	Gaussian CGS (Centímetro-Gram-Segundo sistema) unidad de polarización eléctrica
+A82	Gaussiano CGS (Centímetro-Gram-Segundo sistema) unidad de potencial eléctrico
+A83	Gaussian CGS (Centímetro-Gram-Segundo sistema) unidad de magnetización
+A84	GigaCulombio por metro cúbico
+A85	Gigaelectrónvoltio
+A86	Gigahertz
+A87	GigaOhm
+A88	GigaOhm metro
+A89	Gigapascal
+A9	Tarífa
+A90	Gigawatt
+A91	Grado centesimal
+A93	Gramo por metro cúbico
+A94	Gramo por Mol
+A95	Gray
+A96	Gray por segundo
+A97	Hectopascal
+A98	Henry por metro
+A99	Bit
+AA	Balón
+AB	Paquete a granel
+ACR	Acre
+ACT	Actividad
+AD	Byte
+AE	Amperio por metro
+AH	Minuto adicional
+AI	Minuto y medio por llamada
+AJ	policía
+AK	Braza
+AL	Línea de acceso
+AMH	Amperio hora
+AMP	Amperio
+ANN	Año
+AP	Libra de aluminio solamente
+APZ	Onza troy u onza farmacéutica 
+AQ	Unidad del factir anti-hemofilico.
+AR	supositorio
+ARE	Are
+AS	Variedad
+ASM	Grado alcohólico en masa
+ASU	Grado alcohólico volumétrico
+ATM	Atmósfera estándar
+ATT	Atmósfera técnica
+AW	Relleno de polvo en viales
+AWG	Calibre de alambre americano
+AY	Montaje
+AZ	Unidad térmica británica (tabla internacional) por libra
+B0	Btu por pie cúbico
+B1	Barril (EUA) por día
+B10	Bits por segundo
+B11	Joule por kilogramo kelvin
+B12	Joule por metro
+B13	Joule por metro cuadrado
+B14	Joule por metro a la cuarta potencia
+B15	Juole por Mol
+B16	Juoule por Mol kelvin
+B17	Crédito
+B18	Segundos joule
+B19	Dígito
+B2	litera
+B20	Joule metro cuadrado por kologramo
+B21	Kelvin por watt
+B22	Kiloamperio
+B23	Kiloamperio por metro cuadrado
+B24	Kiloamperio por metro
+B25	Kilobecquerel por metrocúbico
+B26	KiloCulombio
+B27	KiloCulombio por metro cúbico
+B28	KiloCulombio por metro cuadrado
+B29	Kiloelectrónvoltio
+B3	Libra de bateo
+B30	Gibibit
+B31	Kilogramo metro por segundo
+B32	Kilogramo metro cuadrado
+B33	Kilogramo metro cuadrado por segundo
+B34	Kilogramo por decímetro cúbico
+B35	Kilogramo por litro
+B36	Calorías (termoquímicas) por gramo
+B37	Kilogramo de fuerza
+B38	Kilogramo-metro de la fuerza
+B39	Kilogramo-fuerza del metro por segundo
+B4	"Barril, unidad imperial"
+B40	Kilogramo de fuerza por metro cuadrado
+B41	Kilojoule por kelvin
+B42	Kilojoule por kilogramo
+B43	Kilojoule por kilogramo kelvin
+B44	Kilojoule por Mol 
+B45	KiloMol
+B46	KiloMol por metro cúbico
+B47	Kilonewton
+B48	Kilonewton metro
+B49	KiloOhm
+B5	palanquilla
+B50	KiloOhm metro
+B51	KiloLibra
+B52	Kilosegundo
+B53	Kilosiemens
+B54	Kilosiemens por metro
+B55	Kilovoltio por metro
+B56	Kiloweber por metro
+B57	Año luz
+B58	Litro por Mol
+B59	Lumen hora
+B6	Bollo
+B60	Lumen por metro cuadrado
+B61	Luminosidad por watt
+B62	Lumen segundo
+B63	Hora de luz
+B64	Segundo de luz
+B65	Maxwell
+B66	Megaamperio por metro cuadrado
+B67	Megabecquerel por kilogramo
+B68	Gigabit
+B69	MegaCulombio por metro cúbico
+B7	Ciclo
+B70	MegaCulombio por metro cuadrado
+B71	Megaelectrónvoltio
+B72	Megagramo por metro cúbico
+B73	Meganewton
+B74	Meganewton metro
+B75	MegaOhm
+B76	MegaOhm metro
+B77	Megasiemens por metro
+B78	Megavoltio 
+B79	Megavoltio por metro
+B8	Joule por metro cúbico
+B80	Gigabit por segundo
+B81	"Reciprocidad del metro cuadrado, reciprocidad del segundo"
+B82	Pulgadas por pie lineal
+B83	Metro a la cuarta potencia
+B84	Microamperio
+B85	Microbar
+B86	MicroCulombio
+B87	MicroCulombio por metro cúbico
+B88	MicroCulombio por metro cuadrado
+B89	Microfaradio por metro
+B9	Batt
+B90	Microhenry
+B91	Microhenry por metro
+B92	Micronewton
+B93	Micronewton metro
+B94	Micro Ohm
+B95	MicroOhm metro
+B96	Micropascal
+B97	Microrradián
+B98	Microsegundo
+B99	Microsiemens
+BAR	Bar [unidad de presión]
+BB	Caja base
+BFT	Tablero de pies
+BH	Cepillo
+BHP	Potencia al freno
+BIL	Billon
+BLD	Barril seco (EUA)
+BLL	Barril (EUA)
+BP	Tabledo de cien pies
+BPM	Latidos por minuto
+BQL	Becquerel
+BTU	Unidad térmica británica (tabla internacional)
+BUA	Bushel (EUA)
+BUI	Bushel (UK)
+BW	Peso base
+BZ	Millones de BTUs
+C0	Llamada
+C1	Libra de producto compuesto (peso total)
+C10	Milifaradio
+C11	Miligalón
+C12	Miligramo por metro
+C13	MilliGray
+C14	Milihenry
+C15	Milijoule
+C16	Milímetro por segundo
+C17	Milímetro cuadrado por segundo
+C18	MiliMol
+C19	Mol por kilogramo
+C2	Carset
+C20	Milinewton
+C21	Kibibit
+C22	Milinewton por metro
+C23	MiliOhm metro
+C24	Milipascal segundo
+C25	Milirradián
+C26	Milisegundo
+C27	Milisiemens
+C28	MilliSievert
+C29	Militesla
+C3	Microvoltios por metro
+C30	Milivoltio por metro
+C31	Miliwatt
+C32	Miliwatt por metro cuadrado
+C33	Miliweber
+C34	Mol
+C35	Mol por decimetro cúbico
+C36	Mol por metro cúbico
+C37	Kilobits
+C38	Mol por litro
+C39	Nanoamperio
+C4	partido de carga
+C40	NanoCulombio
+C41	Nanofaradio
+C42	Nanofaradio por metro
+C43	Nanohenry
+C44	Nanohenry por metro
+C45	Nanómetro
+C46	NanoOhm metro
+C47	Nanosegundo
+C48	Nanotesla
+C49	Nanowatt
+C5	Costo
+C50	Neperio
+C51	Neperio por segundo
+C52	Picómetro
+C53	Newton metro segundo
+C54	Newton metro cuadrado por kilogramo cuadrado
+C55	Newton por metro cuadrado
+C56	Newton por milimetro cuadrado
+C57	Newton segundo
+C58	Segundos newton por metro
+C59	Octava
+C6	celda
+C60	Ohm centímetro
+C61	Ohm metro
+C62	Uno
+C63	Pársec
+C64	Pascal por kelvin
+C65	Pascal segundo
+C66	Segundos pascal por metro cúbico
+C67	Segundos pascal por metro 
+C68	Petajoule
+C69	Phon
+C7	Centipoise
+C70	Picoamperio
+C71	PicoCulombio
+C72	Picofaradio por metro
+C73	Picohenry
+C74	Kilobits por segundo
+C75	Picowatt
+C76	Picowatt  por metro cuadrado
+C77	Calibre de libra
+C78	Libra fuerza
+C79	Kilovoltios horas amperios
+C8	MilliCulombio por kilogramo
+C80	Rad
+C81	Radián
+C82	Radianmetro cuadrado por Mol
+C83	Rradian metro cuadrado por kilogramo
+C84	Radían por metro
+C85	Reciprocidad Ámstrong
+C86	Reciprocidad del metro cúbico
+C87	Reciprocidad metro cúbico por segundo
+C88	Recíproco joule por metro cúbico
+C89	Henry recíproco
+C9	Grupo bobinas
+C90	Recíproco Henry
+C91	Recíprocidad de kelvin ó kelvin a la potencia menos 1
+C92	Reciprocidad Metro
+C93	Reciprocidad Metro cuadrado
+C94	Reciprocidad Minuto
+C95	Reciprocidad Mol
+C96	Reciprocidad Pascal o pascal a la potencia menos 1 
+C97	Reciprocidad Segundo
+C98	Segundo recíproco por metro cúbico
+C99	Reciprocidad Segundo por metro cuadrado
+CCT	Capacidad de carga en toneladas métricas
+CDL	Candela
+CE	Cada mes
+CEL	Grados celsius
+CEN	Centenar
+CG	Tarjeta
+CGM	Centígramo
+CK	Conector
+CKG	Culombio por kilogramo
+CLF	Cientos de hojas
+CLT	Centilitro
+CMK	Centímetro cuadrado
+CMQ	Centímetro cúbico
+CMT	Centímetro
+CNP	Cientos de paquetes
+CNT	Cental (UK)
+COU	Culombio
+CTG	Contenido en gramos
+CTM	Quilatage métrico
+CTN	Tonelada de contenido (métrica)
+CUR	Curie
+CWA	Hundred pound
+CWI	Hundredweight
+CZ	Combo
+D03	Kilovatio hora por hora
+D04	Lot [unidad de peso]
+D1	Segundo recíproco por estereorradián
+D10	Siemens por metro
+D11	Mebibit
+D12	Siemens metro cuadrado por Mol
+D13	Sievert
+D14	Yarda mil lineal
+D15	Sone
+D16	Centimetro cuadrado por erg
+D17	Centimetro cuadrado por esteroradian erg
+D18	Metro kelvin
+D19	Metro cuadrado kelvin por watt.
+D2	Segundo recíproco por estereorradián metro cuadrado
+D20	Metro cuadrado por joule
+D21	Metro cuadrado por kilogramo
+D22	Metro cuadrado por Mol
+D23	Gramo pluma (proteína)
+D24	Metro cuadrado por esteroradian
+D25	Metro cuadrado por esteroradian joule
+D26	Metro cuadrado por voltiosegundo
+D27	Estereorradían
+D28	sifón
+D29	Terahertz
+D30	Terajoule
+D31	Terawatt
+D32	Terawatt hora 
+D33	Tesla
+D34	Tex
+D35	Calorías (termoquímicas)
+D36	Megabit
+D37	Calorías (termoquímicas) por gramo de kelvin
+D38	Calorías (termoquímicas) por segundo centímetro kelvin
+D39	Calorías (termoquímicas) por segundo centímetro cuadrado kelvin
+D40	Mil litros
+D41	Tonelada por metro cúbico
+D42	Año tropical
+D43	Unidad de masa atómica unificada
+D44	Var
+D45	Voltio cuadrado por kelvin cuadrado
+D46	Voltioio-amperio
+D47	Voltio por centímetro
+D48	Voltio por Kelvin 
+D49	Millivoltio por Kelvin 
+D5	Kilogramo por centímetro cuadrado
+D50	Voltio por metro
+D51	Voltio por milímetro
+D52	Watt por kelvin
+D53	Watt por metro kelvin
+D54	Watt por metro cuadrado
+D55	Watt por metro cuadrado kelvin
+D56	Watt por metro cuadrado kelvin a la cuarta potencia
+D57	Watt por estereorradián
+D58	Watt por estereorradián metro cuadrado
+D59	Weber por metro
+D6	Roentgen por segundo
+D60	Weber por milímetro
+D61	Minuto [unidad de ángulo]
+D62	Segundo [unidad de ángulo]
+D63	Libro
+D64	bloquear
+D65	Redondo
+D66	casete
+D67	Dólar por hora
+D68	Número de palabras
+D69	Pulgada a la cuarta potencia
+D7	Sandwich
+D70	Calorías (tabla internacional)
+D71	Calorías (tabla internacional) por segundo centímetro kelvin
+D72	Calorías (tabla internacional) por segundo centímetro cuadrado kelvin
+D73	Joule metro cuadrado
+D74	Kilogramo por Mol
+D75	Calorías (tabla internacional) por gramo
+D76	Calorías (tabla internacional) por gramo de kelvin
+D77	MegaCulombio
+D78	Megajoule por segundo
+D79	Viga
+D8	Draize score
+D80	Microwatt
+D81	Microtesla
+D82	Microvoltio
+D83	Milinewton metro
+D85	Microwatt por metro cuadrado
+D86	MiliCulombio
+D87	MiliMol por kilogramo
+D88	MiliCulombio por metro cúbico
+D89	MiliCulombio por metro cuadrado
+D9	Dina por centímetro cuadrado
+D90	Metro cúbico (neta)
+D91	Rem
+D92	banda
+D93	Segundo por metro cúbico
+D94	Segundo por metro cúbico Radian
+D95	Joule por gramo
+D96	Libra bruta
+D98	Libra masiva
+D99	manga
+DAA	Decar
+DAD	Decena de días
+DAY	Día
+DB	Libra seca
+DC	Disco (disco)
+DD	Grado [unidad de ángulo]
+DE	Acuerdo
+DEC	Década
+DG	Decigramo
+DI	dispensador
+DJ	Decagramo
+DLT	Decilitro
+DMA	Decámetro cúbico
+DMK	Decímetro cuadrado 
+DMO	Kiloliter norma
+DMQ	Decímetro cúbico
+DMT	Decímetro
+DN	Decinewton metro
+DPC	Docenas de piezas
+DPR	Docenas de pares
+DPT	Peso de desplazamiento
+DQ	registro de datos
+DRA	Dram (EUA)
+DRI	Dram (UK)
+DRL	Docena de rodillos
+DRM	Drachm (UK)
+DS	monitor
+DT	Tonelada seca
+DTN	Decitonelada métrica
+DU	dina
+DWT	Pennyweight
+Dx	Dina por centímetro
+DY	Libro de directorio
+DZN	Docena
+DZP	Docena de paquete
+E01	Newton por centímetro cuadrado
+E07	Megawatt hora por hora
+E08	Megavatios por hertz
+E09	Miliamperio hora
+E10	Día de grado
+E11	Gigacalorie
+E12	Mille
+E14	Kilocaloría (tabla internacional)
+E15	Kilocaloría (termoquímica) por hora
+E16	Millón de btu (ti) por hora
+E17	Pie cúbico por segundo
+E18	Tonelada por hora
+E19	Ping
+E20	Megabit por segundo
+E21	Shares
+E22	Tue
+E23	Neumático
+E25	Unidad activa
+E27	Dosis
+E28	Tonelada seca de aire
+E3	remolque
+E30	Hebra
+E31	Metro cuadrado por litro
+E32	Litros por hora
+E33	Por mil pies
+E34	Gigabyte
+E35	Terabyte
+E36	Petabyte
+E37	Pixel
+E38	Megapíxeles
+E39	Puntos por pulgada
+E4	Kilo bruto
+E40	Parte por cien mil
+E41	Kilogramo-fuerza por milímetro cuadrado
+E42	Kilogramo-fuerza por centímetro cuadrado
+E43	Joule por centímetro cuadrado
+E44	Metros kilogramo-fuerza por centímetro cuadrado
+E45	MiliOhm
+E46	Kilovatio hora por metro cúbico
+E47	Kilovatio hora por kelvin
+E48	Unidad de servicio
+E49	Día de trabajo
+E5	Tonelada métrica larga
+E50	Unidad de cuenta
+E51	Trabajo
+E52	Run foot
+E53	Prueba
+E54	Viaje
+E55	Utilizar
+E56	Bien
+E57	Zona
+E58	Exabit por segundo
+E59	Exbibyte
+E60	Pebibyte
+E61	Tebibyte
+E62	Gibibyte
+E63	Mebibyte
+E64	Kibibyte
+E65	Exbibit por metro
+E66	Exbibit por metro cuadrado
+E67	Exbibit por metro cúbico
+E68	Gigabyte por segundo
+E69	Gibibit por metro
+E70	Gibibit por metro cuadrado
+E71	Gibibit por metro cúbico
+E72	Kibibit por metro
+E73	Kibibit por metro cuadrado
+E74	Kikibit por metro cúbico.
+E75	Mebbit por metro.
+E76	Mebbitt por metro cuadrado.
+E77	Mebbit por metro cúbico. 
+E78	Petabit
+E79	Pebibit por segundo.
+E80	Pebibit por metro.
+E81	Pebibit por metro cuadrado.
+E82	Pebibit por metro cúbico.
+E83	Tebibit.
+E84	Tebibit por segundo
+E85	Tebibit por metro.
+E86	Tebibit por metro cúbico.
+E87	Tebibit por metro cuadrado
+E88	Bit por metro
+E89	Bit por metro cuadrado
+E90	Centímetro recíproco
+E91	Día recíproco
+E92	Decímetro cúbico por hora
+E93	Kilogramo por hora
+E94	KiloMol por segundo
+E95	Mol por segundo
+E96	Grado por segundo
+E97	Mililitro por gadro celsius metro
+E98	Grado celsius por kelvin
+E99	Hectopascal por bar
+EA	Elemento
+EB	Casilla de correo electrónico
+EP	Paquete de once
+EQ	Galón equivalente
+F01	Bit por metro cúbico
+F02	Kelvin por kelvin
+F03	Kilopascal por bar
+F04	Milibar por bar
+F05	Megapascal por bar
+F06	Poise por bar
+F07	Pascal por bar
+F08	Miliamperio por pulgada
+F1	Mil pies cúbicos por día
+F10	Kelvin por hora
+F11	Kelvin por minuto
+F12	Kelvin por segundo
+F13	Slug
+F14	Gramo por kelvin
+F15	Kilogramo por kelvin
+F16	Miligramo por kelvin
+F17	Libra fuerza por pie
+F18	Kilogramo centímetro cuadrado
+F19	Kilogramo milimetro cuadrado
+F20	Libra pulgada cuadrada
+F21	Libra fuerza pulgada
+F22	Libra fuerza por pie entre amperio
+F23	Gramo por decímetro cúbico
+F24	Kilogramo por kiloMol
+F25	Gramo por hertz
+F26	Gramo por día
+F27	Gramo por hora
+F28	Gramo por minuto
+F29	Gramo por segundo
+F30	Kilogramo por día
+F31	Kilogramo por minuto
+F32	Miligramo por dia
+F33	Miligramo por minuto
+F34	Miligramo por segundo
+F35	Gramo por día kelvin
+F36	Gramo por hora kelvin
+F37	Gramo por minuto kelvin
+F38	Gramo por segundo kelvin
+F39	Kilogramo por día kelvin
+F40	Kilogramo por hora kelvin
+F41	Kilogramo por minuto kelvin
+F42	Kilogramo por segundo kelvin
+F43	Miligramo por día kelvin
+F44	Miligramo por hora kelvin
+F45	Miligramo por minuto kelvin
+F46	Miligramo por segundo kelvin
+F47	Newton por milímetro
+F48	Libra fuerza por pulgada
+F49	Rod (Unidad de distancia)
+F50	Micrómetro por kelvin
+F51	Centímetro por kelvin
+F52	Metro por kelvin
+F53	Mililitro por kelvin
+F54	MiliOhm por metro
+F55	Ohm por milla (milla estatal)
+F56	Ohm por kilómetro
+F57	Miliamperio por libra-fuerza por pulgada cuadrada
+F58	Bar recíproco
+F59	Miliamperio por bar
+F60	Grado celsius por bar
+F61	Kelvin por bar
+F62	Gramo por día bar
+F63	Gramo por hora bar
+F64	Gramo por minuto bar
+F65	Gramo por segundo bar
+F66	Kililogramo por día bar
+F67	Kilogramo por hora bar
+F68	Kilogramo por minuto bar
+F69	Kilogramo por segundo bar
+F70	Miligramo por día bar
+F71	Miligramo por hora bar
+F72	Miligramo por minuto bar
+F73	Miligramo por segundo bar
+F74	Gramo por bar
+F75	Miligramo por bar
+F76	Miliamperio por milímetro
+F77	Pascal segundo por kelvin
+F78	Pulgada de agua
+F79	Pulgada de mercurio
+F80	Caballos de fuerza de agua
+F81	Bar por kelvin
+F82	Hectopascal por kelvin
+F83	Kilopascal por kelvin
+F84	Milibar por kelvin
+F85	Megapascal por kelvin
+F86	Poise por kelvin
+F87	Voltio por litro minuto
+F88	Newton centímetro
+F89	Newton metro por grados
+F9	Fibra por centímetro cúbico de aire
+F90	Newton metro por amperio
+F91	Bar litro por segundo
+F92	Bar metro cúbico por segundo
+F93	Hectopascal litro por segundo
+F94	Hectopascal metro cúbico por segundo
+F95	Milibar litro por segundo
+F96	Milibar metro cúbico por segundo
+F97	Megapascal litro por segundo
+F98	Megapascal metro cúbico por segundo
+F99	Pascal litro por segundo
+FAH	Grado fahrenheit
+FAR	Farad
+FB	campo
+FBM	Medidor de fibra
+FC	Mil pies cúbicos
+FD	Millones de partículas por pie cúbico
+FE	Pie de pista
+FF	Cien metros cúbicos
+FG	Parche transdérmico
+FH	MicroMol
+FIT	Fallas en el tiempo
+FL	Flake ton
+FM	Millones de pies cúbicos
+FOT	Pie
+FP	Libra por pie cuadrado
+FR	Pie por minuto
+FS	Pie por segundo
+FTK	Pie cuadrado
+FTQ	Pie cúbico
+G01	Pascal metro cúbico por segundo
+G04	Centímetro por bar
+G05	Metro por bar 
+G06	Milímetro por bar 
+G08	Pulgada cuadrada por segundo
+G09	Metro cuadrado por segundo kelvin
+G10	Stokes por kelvin
+G11	Gramo por centímetro cúbico bar
+G12	Gramo por decímetro cúbico bar
+G13	Gramo por litro bar
+G14	Gramo por metro cúbico bar
+G15	Gramo por mililitro bar
+G16	Kilogramo por centímetro cúbico bar
+G17	Kilogramo por litro bar
+G18	Kilogramo por metro cúbico bar
+G19	Newton metro por kilogramo
+G2	Galón (EUA) por minuto
+G20	Libra-fuerza pie por libra
+G21	Taza (unidad de volumen)
+G23	Peck
+G24	Cucharada (estados unidos)
+G25	Cucharilla (estados unidos)
+G26	Estere
+G27	Centímetro cúbico por kelvin
+G28	Litro por kelvin
+G29	Metro cúbico por kelvin
+G3	Galón (RU) por minuto
+G30	Mililitro por klevin
+G31	Kilogramo por centímetro cúbico
+G32	Onza (avoirdupois) por yarda cúbica
+G33	Gramo por centímetro cúbico kelvin
+G34	Gramo por decímetro cúbico kelvin
+G35	Gramo por litro kelvin
+G36	Gramo por metro cúbico kelvin
+G37	Gramo por mililitro kelvin
+G38	Kilogramo por centímetro cúbico kelvin
+G39	Kilogramo por litro kelvin
+G40	Kilogramo por metro cúbico kelvin
+G41	Metro cuadrado por segundo bar
+G42	Microsiemens por centímetro
+G43	Microsiemens por metro
+G44	Nanosiemens por centímetro
+G45	Nanosiemens por metro
+G46	Stokes por bar
+G47	Centímetro cúbico por día
+G48	Centímetro cúbico por hora
+G49	Centímetro cúbico por minuto
+G50	Galón por hora
+G51	Litro por segundo
+G52	Metro cúbico por día
+G53	Metro cúbico por minuto
+G54	Mililitro por día
+G55	Mililitro por hora
+G56	Pulgada cúbica por hora
+G57	Pulgada cúbica por minuto
+G58	Pulgada cúbica por segundo
+G59	Miliamperio por litro minuto
+G60	Voltio por bar
+G61	Centímetro cúbico por día kelvin
+G62	Centímetro cúbico por hora kelvin
+G63	Centímetro cúbico por minuto kelvin
+G64	Centímetro cúbico por segundo kelvin
+G65	Litro por día kelvin
+G66	Litro por hora kelvin
+G67	Litro por minuto kelvin
+G68	Litro por segundo kelvin
+G69	Metro cúbico por día kelvin
+G7	Hoja de microficha
+G70	Metro cúbico por hora kelvin
+G71	Metro cúbico por minuto kelvin
+G72	Metro cúbico por segundo kelvin
+G73	Mililitro por día kelvin
+G74	Mililitro por hora kelvin
+G75	Mililitro por minuto kelvin
+G76	Mililitro por segundo kelvin
+G77	Milímetro a la cuarta potencia 
+G78	Centímetro cúbico por día bar
+G79	Centímetro cúbico por hora bar
+G80	Centímetro cúbico por minuto bar
+G81	Centímetro cúbico por segundo bar
+G82	Litro por día bar
+G83	Litro por hora bar
+G84	Litro por minuto bar
+G85	Litro por segundo bar
+G86	Metro cúbico por día bar
+G87	Metro cúbico por hora bar
+G88	Metro cúbico por minuto bar
+G89	Metro cúbico por segundo bar
+G90	Mililitro por día bar
+G91	Mililitro por hora bar
+G92	Mililitro por minuto bar
+G93	Mililitro por segundo bar
+G94	Centímetro cúbico por bar
+G95	Litro por bar
+G96	Metro cúbico por bar
+G97	Mililitro por bar 
+G98	Micro henry por kiloOhm
+G99	Micro henry por Ohm
+GB	Galón (EUA) por día
+GBQ	Gigabecquerel
+GC	Gramo por 100 gramos
+Gd	Barril bruto
+GDW	"Gramo, peso seco"
+GE	Libra por galón (EUA)
+GF	Gramo por metro (gramo por 100 centímetros)
+GFI	Gramo de isótopo fisible
+GGR	Grandioso
+GH	Medio galón (US)
+GIA	Gill (us)
+GIC	"Gramo, incluido el contenedor"
+GII	Gill (uk)
+GIP	"Grama, incluido el embalaje interior"
+GJ	Gramo por mililitro
+GK	Gramo por kilogramo
+GL	Gramo por litro
+GLD	Galón seco (EUA)
+GLI	Galón (UK)
+GLL	Galón (EUA)
+GM	Gramo por metro cuadrado
+GN	Galón bruto
+GO	Miligramo por metro cuadrado
+GP	Miligramo por metro cúbico
+GQ	Microgramo por metro cúbico
+GRM	Gramo
+GRN	Grano
+GRO	Gross
+GT	Tonelada bruta
+GV	Gigajoule
+GW	Galón por mil pies cúbicos
+GWH	Gigawatt hora
+GY	Patio grueso
+GZ	Sistema de calibración
+H03	Henry por kiloOhm
+H04	Henry por Ohm
+H05	Milihenry por kiloOhm
+H06	Milihenry por Ohm
+H07	Pascal segundo por bar
+H08	Microbequerel
+H09	Año recíproco
+H1	Media página - electrónica
+H10	Hora recíproca
+H11	Mes recíproco
+H12	Grado celsius por hora
+H13	Grado celsius por minuto
+H14	Grado celsius por segundo
+H15	Centímetro cudrado por gramo
+H16	Decámetro cuadrado
+H18	Hectómetro cuadrado
+H19	Hectómetro cúbico
+H2	Medio litro
+H20	Kilómetro cúbico
+H21	Blanco
+H22	Voltio pulgada cuadrada por libra fuerza
+H23	Voltio por pulgada
+H24	Voltio por microsegundo
+H25	Por ciento por kelvin
+H26	Ohm por metro
+H27	Grado por metro
+H28	Microfaradio por kilómetro
+H29	Microgramo por litro
+H30	Micrómetro cuadrado
+H31	Amperio por kilogramo
+H32	Amperio cuadrado segundo
+H33	Faradio por kilómetro
+H34	Hertz metro
+H35	Kelvin metro por watt
+H36	MegaOhm por kilómetro
+H37	MegaOhm por metro
+H38	Megaamperio
+H39	Megahertz kilómetro
+H40	Newton por amperio
+H41	Newton metro watts elevado a la potencia menos 0.5
+H42	Pascal por metro
+H43	Siemens por centímetro
+H44	TeraOhm
+H45	Voltio segundo por metro
+H46	Voltio por segundo
+H47	Watt por metro cúbico
+H48	Attofarad
+H49	Centímetro por hora
+H50	Reciprocidad del centimetro cúbico
+H51	Decibel per kilometro
+H52	Decibel per metro
+H53	Kilogramo por bar
+H54	Kilogramo por decímetro cúbico kelvin 
+H55	Kilogramo por decímetro cúbico bar
+H56	Kilogramo por metro cuadrado segundo
+H57	Pulgada por dos pi por radián
+H58	Metro por voltio segundo
+H59	Metro cuadrado por newton
+H60	Metro cúbico por metro cúbico
+H61	Milisiemens por centímetro
+H62	Milivoltio por minuto
+H63	Miligramo por centímetro cuadrado
+H64	Miligramo por gramo
+H65	Mililitro por metro cúbico
+H66	Milímetro por año 
+H67	Milímetro por hora
+H68	MiliMol por gram
+H69	Picopascal por kilometro
+H70	Picosegundo
+H71	Por ciento al mes
+H72	Por ciento por hectobar
+H73	Por ciento por decakelvin
+H74	Watt por metro
+H75	Decapascal
+H76	Gramo por milímetro
+H77	Anchura del módulo
+H78	Centímetro convencional de agua
+H79	Escala francesa 
+H80	Unidad de bastidor
+H81	Milímetro por minuto
+H82	Punto grande
+H83	Litro por kilogramo
+H84	Gramos milímetro
+H85	Semana recíproca
+H87	Pieza
+H88	MegaOhm kilómetro
+H89	Por ciento por Ohmio
+H90	Porcentaje por grado
+H91	Por ciento por cada diez mil
+H92	Ciento por cien mil
+H93	Porcentaje por cien
+H94	Por ciento por mil
+H95	Por ciento por voltio
+H96	Tanto por ciento por bar
+H98	Por ciento por pulgada
+H99	Por ciento por metro
+HA	Madeja
+HAR	hectárea
+HBA	Hectobar 
+HBX	Ciento de cajas
+HC	Conteo en cientos
+HD	Media docena
+HDW	"Cien kilogramos, peso seco"
+HE	Centésima de un quilate
+HEA	Cabeza
+HF	Cien pies
+HGM	Héctogramo
+HH	Cien pies cúbicos
+HI	Cien hojas
+HIU	Unidad internacional de cien
+HJ	Potencia métrica
+HK	Cien kilogramos
+HKM	"Cien kilogramos, masa neta"
+HL	Cien pies (lineal)
+HLT	Hectolitro
+HM	Milla por hora (milla estatal)
+HMQ	Millones de metros cúbicos
+HMT	Hectómetro
+HN	Milímetro convencional de mercurio
+HO	Cien onzas troy
+HP	Milímetro convencional de agua
+HPA	Hectolitro de alcohol puro
+HS	Cien pies cuadrados
+HT	media hora
+HTZ	Hertz
+HUR	Hora
+HY	Cien yardas
+IA	Pulgada libra
+IC	Contar por pulgada
+IE	Personas
+IF	Pulgadas de agua
+II	Columna pulgada
+IM	Impresión
+INH	Pulgada
+INK	Pulgada cuadrada
+INQ	Pulgada cúbica
+IP	póliza de seguros
+ISD	Grado internacional de azúcar
+IT	Recuento por centímetro
+IU	Pulgada por segundo
+IV	Pulgada por segundo al cuadrado
+J10	Por ciento por milímetro
+J12	Por mille por psi
+J13	Grado api
+J14	Grado baume (escala de origen)
+J15	Grado baume (us pesado)
+J16	Grado baume (luz de los EUA)
+J17	Grado balling
+J18	Grado brix
+J19	Grado fahrenheit hora pie cuadrado por unidad térmica británica (termoquímico).
+J2	Joule por kilogramo
+J20	Grado fahrenheit por kelvin
+J21	Grado fahrenheit por bar
+J22	Grado fahrenheit hora pie cuadrado por unidad térmica británica (tabla internacional).
+J23	Grado fahrenheit por hora
+J24	Grado fahrenheit por minuto
+J25	Grado fahrenheit por segundo
+J26	Reciprocidad grado fahrenheit
+J27	Grado oechsle
+J28	Grado rankine por hora
+J29	Grado rankine por minuto
+J30	Grado rankine por segundo
+J31	Grado twaddel.
+J32	Micropoise
+J33	Microgramo por kilogramo
+J34	Microgramo por metro cúbico kelvin
+J35	Microgramo por metro cúbico bar
+J36	Microlitro por litro
+J38	Baud
+J39	Unidad térmica británica (significado)
+J40	Unidad térmica británica (tabla internacional) pie por hora pie cuadrado grado fahrenheit.
+J41	Unidad térmica británica (tabla internacional) pulgada por hora pie cuadrado grado fahrenheit.
+J42	Unidad térmica británica (tabla internacional) pulgada por segundo pie cuadrado grado fahrenheit.
+J43	Unidad térmica británica (tabla internacional) por libra grado fahrenheit
+J44	Unidad térmica británica (tabla internacional) por minuto
+J45	Unidad térmica británica (tabla internacional) por segundo
+J46	Unidad térmica británica (termoquímico) pie por hora pie cuadrado grado fahrenheit.
+J47	Unidad térmica británica (termoquímica) por hora
+J48	Unidad térmica británica (termoquímico) pulgada por hora pie cuadrado grado fahrenheit.
+J49	Unidad térmica británica (termoquímico) pulgada por segundo pie cuadrado grado fahrenheit.
+J50	Unidad térmica británica (termoquímico) por libra grado fahrenheit
+J51	Unidad térmica británica (termoquímica) por minuto
+J52	Unidad térmica británica (termoquímica) por segundo
+J53	Culombio metro cuadrado por kilogramo
+J54	Megabaud
+J55	Watt segundo
+J56	Bar por bar
+J57	Barril (uk petróleo)
+J58	Barril (petróleo UK) por minuto
+J59	Barril (petróleo UK) por día
+J60	Barril (petróleo UK) por hora
+J61	Barril (petróleo UK) por segundo
+J62	Barril (petróleo estados unidos) por hora
+J63	Barril (petróleo estados unidos) por segundo
+J64	Bushel (UK) por día 
+J65	Bushel (UK) por hora
+J66	Bushel (UK) por minuto
+J67	Bushel (UK) por segundo
+J68	"Bushel (seco,estados unidos) por día"
+J69	"Bushel (seco,estados unidos) por hora"
+J70	"Bushel (seco,estados unidos) por minuto"
+J71	"Bushel (seco,estados unidos) por segundo"
+J72	Centinewton metro
+J73	Centipoise por kelvin
+J74	Centipoise por bar
+J75	Caloría
+J76	Caloría (tabla internacional) por gramo gadro celsius
+J78	Caloría (termoquímica) por centímetro segundo grado celsius
+J79	Caloría (termoquímico) por gramo gadro celsius
+J81	Caloría (termoquímica) por minuto
+J82	Caloría (termoquímica) por segundo
+J83	Clo
+J84	Centímetro por segundo kelvin
+J85	Centímetro por segundo bar
+J87	Centímetro cúbico por metro cúbico
+J89	Centímetro de mercurio
+J90	Decímetro cúbico por día
+J91	Decímetro cúbico por metro cúbico
+J92	Decímetro cúbico por minuto
+J93	Decímetro cúbico por segundo
+J94	Dina centímetro
+J95	"Onza (fluido, UK) por día"
+J96	"Onza (fluido, UK) por hora"
+J97	"Onza (fluido, UK) por minuto"
+J98	"Onza (fluido, UK) por segundo"
+J99	"Onza (fluido, estados unidos) por día"
+JB	Jumbo
+JE	Joule por kelvin
+JK	Megajoule por kilogramo
+JM	Megajoule por metro cúbico
+JNT	Junta de tubería
+Jo	Articulación
+JOU	Joule
+JPS	Cien metros
+JWL	Número de joyas
+K1	Demanda de kilowatt
+K10	"Onza (fluido, estados unidos) por hora"
+K11	"Onza (fluido, estados unidos) por minuto"
+K12	"Onza (fluido, estados unidos) por segundo"
+K13	Pie por grado fahrenheit
+K14	Pie por hora
+K15	Pie libra-fuerza por hora
+K16	Pie libra-fuerza por minuto
+K17	Pie por psi (libra por pulgada cuadrada)
+K18	Pie por segundo grado fahrenheit
+K19	Pie por segundo psi (libra por pulgada cuadrada)
+K2	Kilovoltios amperios demanda reactiva
+K20	Reciprocidad del pie cuadrado
+K21	Pie cúbico por grado fahrenheit
+K22	Pie cúbico por día
+K23	Pie cúbico por psi (libra por pulgada cuadrada)
+K24	Pie de agua
+K25	Pie de mercurio
+K26	Galón (UK) por día
+K27	Galón (UK) por hora
+K28	Galón (UK) por segundo
+K3	Kilovoltio amperio hora reactivo
+K30	"Galón (líquido, EUA) por segundo"
+K31	Gramo-fuerza por centímetro cuadrado
+K32	Gill (UK) por día
+K33	Gill (UK) por hora
+K34	Gill (UK) por minuto
+K35	Gill (UK) por segundo
+K36	Gill (estados unidos) por día
+K37	Gill (estados unidos) por hora
+K38	Gill (estados unidos) por minuto
+K39	Gill (estados unidos) por segundo
+K40	Aceleración estándar de la caída libre
+K41	Grano por galón (EUA)
+K42	Caballo de fuerza de caldera 
+K43	Caballo de fuerza (eléctrico)
+K45	Pulgada por grado fahrenheit
+K46	Pulgada por psi (libra por pulgada cuadrada)
+K47	Pulgada por segundo grado fahrenheit
+K48	Pulgada por segundo psi (libra por pulgada cuadrada)
+K49	Reciprocidad de la pulgada cuadrada
+K5	Kilovoltios amperios (reactivos)
+K50	Kilobaud
+K51	Kilocaloría (significado)
+K52	Kilocaloría (tabla internacional) por hora metro grado celsius
+K53	Kilocaloría (termoquímico)
+K54	Kilocaloría (termoquímica) por minuto
+K55	Kilocaloría (termoquímica) por segundo
+K58	KiloMol por hora
+K59	KiloMol por metro cúbico kelvin
+K6	Kilolitro
+K60	KiloMol por metro cúbico bar
+K61	KiloMol por minuto
+K62	Litro por litro
+K63	Reciprocidad del litro
+K64	Libra (avoirdupois) por grado fahrenheit
+K65	Libra (avoirdupois) pie cuadrado
+K66	Libra (avoirdupois) por día
+K67	Libra por pie hora
+K68	Libra por pie segundo
+K69	Libra (avoirdupois) por pie cúbico grado fahrenheit
+K70	Libra (avoirdupois) por pie cúbico psi
+K71	Libra (avoirdupois) por galón (UK)
+K73	Libra (avoirdupois) por hora grados fahrenheit
+K74	Libra (avoirdupois) por hora libra-fuerza por pulgada cuadrada
+K75	Libra (avoirdupois) por pulgada cúbica grado fahrenheit
+K76	Libra (avoirdupois) por pulgada cúbica psi
+K77	Libra (avoirdupois) por psi
+K78	Libra (avoirdupois) por minuto
+K79	Libra (avoirdupois) por minuto grados fahrenheit
+K80	Libra (avoirdupois) por minuto libra-fuerza por pulgada cuadrada
+K81	Libra (avoirdupois) por segundo
+K82	Libra (avoirdupois)por segundo grados fahrenheit
+K83	Libra (avoirdupois) por segundo libra-fuerza por pulgada cuadrada
+K84	Libra por yarda cúbica 
+K85	Libra-fuerza por pie cuadrado
+K86	Libra-fuerza por pulgada cuadrada grados fahrenheit
+K87	Libra-fuerza por pulgada cuadrada pulgada cúbica por segundo
+K88	Libra-fuerza por pulgada cuadrada litro por segundo
+K89	Libra-fuerza por pulgada cuadrada metro cúbico por segundo
+K90	Libra-fuerza por pulgada cuadrada yarda cúbica por segundo
+K91	Libra-fuerza segundo por pie cuadrado
+K92	Libra-fuerza segundo por pulgada cuadrada
+K93	Reciprocidad psi
+K94	"Cuarto (líquido, UK) por día"
+K95	"Cuarto (líquido, UK) por hora"
+K96	"Cuarto (líquido, UK) por minuto"
+K97	"Cuarto (líquido, UK) por segundo"
+K98	"Cuarto (líquido, estados unidos) por día"
+K99	"Cuarto (líquido, estados unidos) por hora"
+KA	Pastel
+KAT	Katal
+KB	Kilocaracter
+KBA	Kilobar
+KCC	Kilogramo de cloruro de colina
+KD	Kilogram decimal
+KDW	Kilogramo de peso neto drenado
+KEL	Kelvin
+KF	Kilopacket
+KGM	Kilogramo
+KGS	Kilogramo por segundo
+KHY	Kilogramo de peróxido de hidrógeno
+KHZ	Kilohertz
+KI	Kilogramo por milímetro de ancho
+KIC	"Kilogramo, incluyendo el contenedor"
+KIP	"Kilogramo, incluyendo el empaquetado interno"
+KJ	Kilosegmento
+KJO	Kilojoule
+KL	Kilogramo por metro
+KLK	Porcentaje de material seco láctico
+KLX	Kilolux
+KMA	Kilogramo de metilamina
+KMH	Kilómetro por hora
+KMK	Kilómetro cuadrado
+KMQ	Kilogramo por metro cúbico
+KMT	Kilómetro
+KNI	Kilogramo de nitrógeno
+KNM	Kolonewton por metro cuadrado
+KNS	Kilogram sustancia nombrada
+KNT	Nudo
+KO	Miliequivalentes de potasa cáustica por gramo de producto
+KPA	Kilopascal
+KPH	Kilogramo de hidróxido de potasio (potasa cáustica)
+KPO	Kilogramo de óxido de potasio
+KPP	Kilogramo de pentóxido de fósforo (anhídrido fosfórico)
+KR	Kiloroentgen
+KS	Mil libras por pulgada cuadrada
+KSD	Kilogramo de sustancia 90% seco
+KSH	Kilogramo de hidróxido de sodio (sodio cáustica)
+KT	Kit
+KTN	Kilotonelada Métrica
+KUR	Kilogramo de uranio
+KVA	Kilovoltio - amperio
+KVR	Kilovar
+KVT	Kilovoltio
+KW	Kilogramo por milímetro
+KWH	Kilowatt hora
+KWN	Kilowatt hora por metro cúbico normalizado
+KWO	Kilogramo de trióxido de tungsteno
+KWS	Kilowatt hora por metro cúbico estándar
+KWT	Kilowatt
+KX	Mililitro por kilogramo
+L10	"Cuarto (líquido, estados unidos) por minuto"
+L11	"Cuarto (líquido, estados unidos) por segundo"
+L12	Metro por segundo kelvin
+L13	Metro por segundo bar
+L14	Metro cuadrado hora grado celsius por kilocaloría (tabla internacional)
+L15	Milipascal segundo por kelvin
+L16	Milipascal segundo por bar
+L17	Miligramo por metro cúbico kelvin
+L18	Miligramo por metro cúbico bar
+L19	Mililitro por litro
+L2	Litro por minuto
+L20	Reciprocidad del milimetro cúbico
+L21	Milimetro cúbico por metro cúbico
+L23	Mol por hora 
+L24	Mol por kilogramo kelvin
+L25	Mol por kilogramo bar
+L26	Mol por litreo kelvin
+L27	Mol por litro bar
+L28	Mol por metro cúbico kelvin
+L29	Mol por metro cúbico bar
+L30	Mol por minuto
+L31	Milliroentgen aequivalent men
+L32	Nanogramo por kilogramo
+L33	Onza (avoirdupois) por día
+L34	Onza (avoirdupois) por hora
+L35	Onza (avoirdupois) por minuto
+L36	Onza (avoirdupois) por segundo
+L37	Onza (avoirdupois) por galón (UK)
+L38	Onza (avoirdupois) por galón (EUA)
+L39	Onza (avoirdupois) por pulgada cúbica
+L40	Onza fuerza
+L41	Onza (avoirdupois) fuerza pulgada
+L42	Picosiemens por metro
+L43	Peck (UK)
+L44	Peck (UK) por día
+L45	Peck (UK) por hora
+L46	Peck (UK) por minuto
+L47	Peck (UK) por segundo
+L48	"Peck (seco, estados unidos) por día"
+L49	"Peck (seco, estados unidos) por hora"
+L50	"Peck (seco, estados unidos) por minuto"
+L51	"Peck (seco, estados unidos) por segundo"
+L52	Libra.fuerza por pulgada cuadrada por libra fuerza por pulgada cuadrada
+L53	Pinta (UK) por día
+L54	Pinta (UK) por hora
+L55	Pinta (UK) por minuto
+L56	Pinta (UK) por segundo
+L57	"Pinta (líquido, estados unidos) por día"
+L58	"Pinta (líquido, estados unidos) por hora"
+L59	"Pinta (líquido, estados unidos) por minuto"
+L60	"Pinta (líquido, estados unidos) por segundo"
+L61	Pinta (US seco)
+L62	Cuarto de galón (seco de los EUA)
+L63	Slug por día
+L64	Slug por pie segundo
+L65	Slug por pie cúbico
+L66	Slug por hora
+L67	Slug por minuto
+L68	Slug por segundo
+L69	Tonelada por kelvin
+L70	Tonelada por bar
+L71	Tonelada por día
+L72	Tonelada por día kelvin
+L73	Tonelada por día bar
+L74	Tonelada por hora kelvin
+L75	Tonelada por hora bar
+L76	Tonelada por metro cúbico kelvin
+L77	Tonelada por metro cúbico bar
+L78	Tonelada por minuto
+L79	Tonelada por minuto kelvin
+L80	Tonelada por minuto bar
+L81	Tonelada por segundo
+L82	Tonelada por segundo kelvin
+L83	Tonelada por segundo bar
+L84	Tonelada (flota UK)
+L85	Tonelada larga por día
+L86	Tonelada (flota estados unidos)
+L87	Tonelada corta por grado fahrenheit
+L88	Tonelada corta por día
+L89	Tonelada corta por hora grados fahrenheit
+L90	Tonelada corta por hora libra-fuerza por pulgada cuadrada
+L91	Tonelada corta por psi
+L92	Tonelada larga (UK) por yarda cúbica
+L93	Tonelada corta (estados unidos) por yarda cúbica
+L94	Tonelada fuerza
+L95	Año común
+L96	Año sideral
+L98	Yarda por grado fahrenheit
+L99	Yarda por psi (libra por pulgada cuadrada)
+LA	Libra por pulgada cúbica 
+LAC	Porcentaje de exceso de lactosa
+LBR	Libra
+LBT	Troy pound
+LC	Centímetro lineal
+LD	Litro por día
+LE	Lite
+LEF	Hoja
+LF	Pie lineal
+LH	Hora de trabajo
+LI	Pulgada lineal
+LJ	Spray grande
+LK	Enlazar
+LM	Metro lineal
+LN	Longitud
+LO	Lote [unidad de adquisición]
+LP	Libra líquida
+LPA	Litro de alcohol puro
+LR	Capa 
+LS	Suma global
+LTN	Tonelada (UK) o tonelada larga (estados unidos)
+LTR	Litro
+LUB	"Tonelada métrica, aceite lubricante"
+LUM	Lumen
+LUX	Lux
+LX	Yarda lineal por libra
+LY	Yarda lineal
+M0	cinta magnética
+M1	Miligramo por litro
+M10	Reciprocidad de la yarda cuadrada
+M11	Yarda cúbica por grado fahrenheit
+M12	Yarda cúbica por día
+M13	Yarda cúbica por hora 
+M14	Yarda cúbica por psi (libra por pulgada cuadrada)
+M15	Yarda cúbica por minuto
+M16	Yarda cúbica por segundo
+M17	Kilohertz metro
+M18	Gigahertz metro
+M19	Beaufort
+M20	Recíproco de megakelvin ó megakelvin a la potencia menos 1
+M21	Kilovoltio-amperio hora recíprocidad
+M22	Milímetro por centímetro cuadrado minuto
+M23	Newton por centímetro
+M24	Ohm kilómetro
+M25	Porcentaje por grado celsius
+M26	GigaOhm por metro
+M27	Megahertz metro
+M29	Kilogramo por kilogramo
+M30	voltio-amperio segundo recíprocidad
+M31	Kilogramo por kilómetro
+M32	Segundos pascal por litro
+M33	MiliMol por litro
+M34	Newton metro por metro cuadrado
+M35	Milivoltio - amperio
+M36	Mes de 30 días
+M37	Actual 360
+M38	Kilómetro por segundo cuadrado
+M39	Centímetro por segundo cuadrado
+M4	Valor monetario
+M40	Yarda por segundo cuadrado
+M41	Milímetro por segundo cuadrado
+M42	Milla (milla estatal)  por segundo cuadrado
+M43	Mil (unidad de Medida Militar)
+M44	Revolución
+M45	Grado por segundo cuadrado
+M46	Revolución por minuto
+M47	Circular Mil
+M48	Milla cuadrada (basado en u.s survey foot)
+M49	Cadena 
+M5	Microcurie
+M50	Estadio
+M51	Pie (Topografía UEA)
+M52	Milla
+M53	Metro por pascal
+M55	Metro por radián
+M56	Shake 
+M57	Milla por minuto
+M58	Milla por segundo
+M59	Metro por segundo pascal
+M60	Metro por hora
+M61	Pulgada por año
+M62	Kilómetro por segundo
+M63	Pulgada por minuto
+M64	Yarda por segundo
+M65	Yarda por minuto
+M66	Yarda por hora
+M67	Acre-pie
+M68	Cordón
+M69	Milla cúbica (reinounido)
+M7	Micro-pulgada
+M70	Unidad tradicional de capacidad de carga
+M71	Metro cúbico por pascal (joules)
+M72	Bel
+M73	Kilogramo por metro cúbico pascal
+M74	Kilogramo por pascal
+M75	Kilolibra fuerza
+M76	Poundal
+M77	Kilogramo metro por segundo cuadrado
+M78	Pond
+M79	Pie cuadrado por hora
+M80	Stokes por pascal
+M81	Centímetro cuadrado por segundo
+M82	Metro cuadrado por segundo pascal
+M83	Denier
+M84	Libra por yarda 
+M85	"Tonelada, ensayo"
+M86	Libra Alemana
+M87	Kilogramo por segundo pascal
+M88	Tonelada por mes
+M89	Tonelada por año
+M9	Millones de btu por 1000 pies cúbicos
+M90	Kilolibra por hora
+M91	Libra por libra
+M92	Libra fuerza pie
+M93	Newton metro por radián
+M94	Kilogramo metro
+M95	Poundal pie
+M96	Poundal pulgada
+M97	Dina metro
+M98	Kilogramo centímetro por segundo
+M99	Gramo centímetro por segundo
+MA	Máquina por unidad
+MAH	Megavoltio amperio reactivo hora
+MAL	Megalitro
+MAM	Megametro
+MAR	Megavar
+MAW	Megawatt
+MBE	Mil equivalente de ladrillo estándar
+MBF	Mil pies de tabla
+MBR	Milibar
+MC	Microgramo
+MCU	Milicurie
+MD	Tonelada métrica seca al aire
+MF	Miligramo por pie cuadrado por lado
+MGM	Miligramo
+MHZ	Megahertz
+MIK	Milla cuadrada (milla estatal)
+MIL	Mil
+MIN	Minuto [unidad de tiempo]
+MIO	Millon
+MIU	Unidad internacional de millon
+MK	Miligramo por pulgada cuadrada
+MLD	Mil millones
+MLT	Mililitro
+MMK	Milímetro cuadrado
+MMQ	Milímetro cúbico
+MMT	Milímetro
+MND	"Kilogramo, peso seco"
+MON	Mes 
+MPA	Megapascal
+MQ	Mil metros
+MQH	Metro cúbico por hora
+MQS	Metro cúbico por segundo
+MSK	Metro por segundo cuadrado
+MTK	Metro cuadrado
+MTQ	Metro cúbico
+MTR	Metro
+MTS	Metro por segundo
+MV	Número de mults
+MVA	Megavoltio - amperio
+MWH	Megawatt hora
+N1	Pluma calórica
+N10	Libra pie por segundo
+N11	Libra pulgada por segundo
+N12	Pferdestaerke
+N13	Centímetro de mercurio (0°)
+N14	Centímetro de agua (4°)
+N15	Pie de agua (39.2 °f)
+N16	Pulgada de mercurio (32 °f)
+N17	Pulgada de mercurio (60 °f)
+N18	Pulgada de agua (39.2 °f)
+N19	Pulgada de agua (60 °f)
+N2	número de líneas
+N20	Kip por pulgada cuadrada
+N21	Poundal por pie cuadrado
+N22	Onza (avoirdupois) por pulgada cuadrada
+N23	Metro convencional de agua
+N24	Gramo por milímetro cuadrado
+N25	Libra por yarda cuadrada
+N26	Poundal por pulgada cuadrada
+N27	Pie a la cuarta potencia 
+N28	Decímetro cúbico por kilogramo
+N29	Pie cúbico por libra 
+N3	Impresión de punto
+N30	Pulgada cúbica por libra
+N31	Kilonewton por metro
+N32	Poundal por pulgada
+N33	Libra-fuerza por yarda
+N34	Poundal segundo por pie cuadrado
+N35	Poise por pascal
+N36	Newton segundo por metro cuadrado
+N37	Kilogramo por metro segundo
+N38	Kilogramo por metro minuto
+N39	Kilogramo por metro día
+N40	Kilogramo por metro hora
+N41	Gramo por centímetro segundo
+N42	Poundal segundo por pulgada cuadrada
+N43	Libra por pie minuto
+N44	Libra por pie día
+N45	Metro cúbico por segundo pascal
+N46	Pie poundal
+N47	Pulgada poundal
+N48	Watt por centímetro cuadrado
+N49	Watt por pulgada cuadrada
+N50	Unidad térmica británica (tabla internacional) por pie cuadrado hora.
+N51	Unidad térmica británica (termoquímica) por pie cuadrado hora.
+N52	Unidad térmica británica (termoquímico) por pie cuadrado minuto.
+N53	Unidad térmica británica (tabla internacional) por pie cuadrado segundo.
+N54	Unidad térmica británica (termoquímica) por pie cuadrado segundo.
+N55	Unidad térmica británica (tabla internacional) por pulgada cuadrada segundo.
+N56	Caloría (termoquímica) por centímetro cuadrado minuto
+N57	Caloría (termoquímica) por centímetro cuadrado segundo
+N58	Unidad térmica británica (tabla internacional) por pie cúbico
+N59	Unidad térmica británica (termoquímica) por pie cúbico
+N60	Unidad térmica británica (tabla internacional) por grado fahrenheit
+N61	Unidad térmica británica (termoquímico) por grado fahrenheit
+N62	Unidad térmica británica (tabla internacional) por grado rankine
+N63	Unidad térmica británica (termoquímico) por grado rankine
+N64	Unidad térmica británica (termoquímico) por libra grado rankine
+N65	Kilocaloría (tabla internacional) por gramo kelvin
+N66	Unidad térmica británica (39 °f)
+N67	Unidad térmica británica (59 °f)
+N68	Unidad térmica británica (60 °f)
+N69	Caloría (20 °c)
+N70	Quad
+N71	Termia (energía comercial)
+N72	Termia (UEA)
+N73	Unidad térmica británica (termoquímica) por libra
+N74	Unidad térmica británica (tabla internacional) por hora pie cuadrado grado fahrenheit.
+N75	Unidad térmica británica (termoquímico) por hora pie cuadrado grado farenheit.
+N76	Unidad térmica británica (tabla internacional) por segundo pie cuadrado grado fahrenheit.
+N77	Unidad térmica británica (termoquímico) por segundo pie cuadrado grado fahrenheit.
+N78	Kilowatt por metro cuadrado kelvin
+N79	Kelvin por pascal
+N80	Watt por metro grado celsius
+N81	Kilowatt por metro kelvin
+N82	Kilowatt por metro grado celsius
+N83	Metro por grado celsius metro
+N84	Grado fahrenheit hora por unidad térmica británica (tabla internacional)
+N85	Grado fahrenheit hora por unidad térmica británica (termoquímico)
+N86	Grado fahrenheit segundo por unidad térmica británica (tabla internacional)
+N87	Grago fahrenheit segundo por unidad térmica británica (termoquímico)
+N88	Grado fahrenheit hora pie cuadrado por unidad térmica británica (tabla internacional) pulgada
+N89	Grado fahrenheit hora pie cuadrado por unidad térmica británica (termoquímico) pulgada.
+N90	Kilofaradio
+N91	Joule recíproco
+N92	Picosiemens
+N93	Amperio por pascal
+N94	Franklin
+N95	Amperio minuto
+N96	Biot
+N97	Gilbert
+N98	Voltio por pascal
+N99	Picovoltio
+NA	Miligramo por kilogramo
+NAR	Número de artículos
+NB	barcaza
+NBB	Número de bobinas
+NC	Carro
+NCL	Número de celulas
+ND	Barril neto
+NE	Litro neto
+NEW	Newton
+NF	Mensaje
+NG	Galón neto (us)
+NH	Hora del mensaje
+NI	Galón imperial neto
+NIL	Nil
+NIU	Número de unidades internacionales
+NJ	Número de pantallas
+NL	Carga
+NM3	Metro cúbico normalizado
+NMI	Milla náutica
+NMP	Número de paquetes
+NN	tren
+NPR	Número de parejas
+NPT	Número de partes
+NQ	Mho
+NR	Micromho
+NT	Tonelada neta
+NTT	Tonelada de registro neto
+NV	vehículo
+NY	Libra por tonelada métrica al aire seco
+NX	Parte por mil
+OA	Panel
+ODE	Equvalente de agotamiento del ozona
+Ohm	Ohm
+ON	Onza por yarda cuadrada
+ONZ	Onza (avoirdupois)
+OP	Dos paquetes
+OPM	Oscilaciones por minuto
+OT	Hora extra
+OZ	Onza AV
+OZA	Onza líquida (estados unidos)
+OZI	Onza líquida (UK)
+P0	Página electrónica
+P1	Tanto por ciento
+P10	Culombio por metro
+P11	Kiloweber
+P12	Gamma
+P13	Kilotesla
+P14	Joule por segundo
+P15	Joule por minuto
+P16	Joule por hora
+P17	Joule por día
+P18	Kilojoule por segundo
+P19	Kilojoule por minuto
+P2	Libra por pie
+P20	Kilojoule por hora
+P21	Kilojoule por dia
+P22	NanoOhm
+P23	Ohm circular-mil por pie
+P24	Kilohenry
+P25	Lumen por pie cuadrado
+P26	Foto
+P27	Vela (medida)
+P28	Candela por pulgada cuadrada
+P29	Footlambert
+P3	Tres paquetes
+P30	Lambert
+P31	Stilb 
+P32	Candela por pie cuadrado
+P33	Kilocandela
+P34	Milicandela
+P35	Hefner-kerze
+P36	Candela internacional
+P37	Unidad térmica británica (tabla internacional) por pie cuadrado
+P38	Unidad térmica británica (termoquímica) por pie cuadrado
+P39	Caloría (termoquímica) por centímetro cuadrado
+P4	paquete de cuatro
+P40	Langley
+P41	Década (logaritmica)
+P42	Pascal por segundo cuadrado
+P43	Bel por metro
+P44	Libra Mol
+P45	Libra de Mol por segundo
+P46	Libra Mol por minuto
+P47	KiloMol por kilogramo
+P48	Libra de Mol por libra
+P49	Newton metro cuadrado por amperio
+P5	Paquete de cinco
+P50	Metro weber
+P51	Mol por kilogramo pascal 
+P52	Mol por metro cúbico pascal
+P53	Unit por segundo
+P54	MiliGray por segundo
+P55	MicroGray por segundo
+P56	NanoGray por segundo
+P57	Gray por minuto
+P58	MiliGray por minuto
+P59	Microgray por minuto
+P6	paquete de seis
+P60	Nanogray por minuto
+P61	Gray por hora
+P62	MiliGray por hora
+P63	Micro gray por hora
+P64	Nanogray por hora
+P65	Sievert por segundo
+P66	MilliSievert por segundo
+P67	MicroSievert por segundo
+P68	NanoSievert por segundo
+P69	Rem por segundo
+P7	Paquete de siete
+P70	Sievert por hora
+P71	MilliSievert por hora
+P72	Micro Sievert por hora
+P73	NanoSievert por hora
+P74	Sievert por minuto
+P75	MilliSievert por minuto
+P76	MicroSievert por minuto
+P77	NanoSievert pominut 
+P78	Reciprocidad por segundo
+P79	Pascal metro cuadrado por kilogramo
+P8	Paquete de ocho
+P80	Milipascal por metro.
+P81	Kilopascal por metro.
+P82	Hectopascal por metro.
+P83	Admosfera estandar por metro.
+P84	Admosfera tecnica por metro.
+P85	Torr por metro.
+P86	Psi por pulgada
+P87	Metro cúbico por segundo de metro cuadrado
+P88	Rhe
+P89	Libra por metro cúbico de pulgada
+P9	Nueve paquetes
+P90	Libra-fuerza por pulgada cuadrada
+P91	Permanente (0°c)
+P92	Permanente (23°c)
+P93	Byte por segundo
+P94	Kilobyte por segundo
+P95	Megabite por segundo
+P96	Recíproco de la unidad si deriva voltio
+P97	Reciprocidad de Radian
+P98	Pascal a la suma de potencia de los números estequimetricos
+P99	Mols por metro cúbico a la suma de potencia de los números estequimetricos
+PAL	Pascal
+PB	Par de la pulgada
+PD	Almohadilla
+PE	Libra equivalente
+PFL	Litro de prueba 
+PGL	Galón de prueba
+PI	Tono
+PLA	Grado de platón 
+PM	Porcentaje de libra
+PO	Libra por pulgada
+PQ	Página por pulgada
+PR	Par
+PS	Libra fuerza por pulgada cuadrada
+PT	Pinta (US)
+PTD	Pinta seca (estados unidos)
+PTI	Pint (uk)
+PTL	Pinta líquida (estados unidos)
+PTN	Parte
+PV	Media pinta (US)
+PW	Libra por pulgada de ancho
+PY	Pico seco (EUA)
+PZ	Peck dry (UK)
+Q10	Joule por tesla
+Q11	Erlang
+Q12	Octeto
+Q13	Octeto por segundo
+Q14	Shannon
+Q15	Hartley
+Q16	Unidad natural de información 
+Q17	Shannon por segundo
+Q18	Hartley por segundo 
+Q19	Unidad natural de información por segundo 
+Q20	Segundo por kilogramo
+Q21	Watt metro cuadrado
+Q22	Segundo por metro cúbicos de radianes 
+Q23	Weber a la potencia menos uno
+Q24	Reciprocidad de Pulgada
+Q25	Dioptría
+Q26	Uno por uno
+Q27	Newtons metros por metro
+Q28	Kilograma por metro cuadrado pascal segundo
+Q29	Microgramo por hectogramo
+Q3	Comida
+Q30	Ph (potencial de hidrogeno)
+Q31	Kilojoule por gramo
+Q32	Femtolitro
+Q33	Picolitro
+Q34	Nanolitro
+Q35	Megawatts por minuto
+Q36	Metro cuadrado por metro cúbico
+Q37	Metro cúbico estándar por día
+Q38	Metro cúbico estándar por hora
+Q39	Metro cúbico normalizado por día
+Q40	Metro cúbico normalizado por hora
+Q41	Joule por metro cúbico normalizado
+Q42	Joule por metro cúbico estándar
+QA	Página-fascimil
+QAN	Cuarto (de un año)
+QB	"Página, copia impresa"
+QD	Cuarta docena
+QH	Un cuarto de hora
+QK	Cuarto de kilogramo
+QR	Mano de papel
+QT	Cuarto (EUA)
+QTD	Cuarto seco (estados unidos)
+QTI	Cuarto (UK)
+QTL	Cuarto de líquido (estadis unidos)
+QTR	Cuarto
+R1	Pica
+R9	Mil metros cúbicos 
+RH	Hora de funcionamiento
+RK	Medida métrica de rollo
+RM	Resma
+RN	Medida métrica de Hojas (resma)
+ROM	Habitación
+RP	Libra por resma
+RPM	Revoluciones por minuto
+RPS	Revoluciones por segundo
+RS	Reiniciar
+RT	Milla de toneladas de ingresos
+RU	correr
+S3	Pie cuadrado por segundo
+S4	Metro cuadrado por segundo
+S5	Sesenta cuartos de pulgada
+S6	Sesión
+S7	unidad de almacenamiento
+S8	Unidad de publicidad estándar
+SAN	Medio año
+SCO	Puntuación
+SCR	Escrúpulo
+SD	Libra sólida
+SE	Sección
+SEC	Segundo [unidad de tiempo]
+SET	Conjunto
+SG	Segmento 
+SHT	Tonelada de envíos
+SIE	Siemens
+SK	Camión cisterna con división
+SM3	Metro cúbico estándar
+SMI	Milla (milla estatal)
+SN	Barra cuadrada
+SQ	Cuadrado
+SQR	Cuadrado y techado
+SR	Tira
+SS	Medida métrica de hoja
+SST	Estandar corto (7200 partidos)
+STC	Palo
+STI	Estone (UK)
+STK	"Palo, cigarrillo"
+STL	Litro estándar
+STN	Tonelada (estados unidos) o tonelada corta (UK y estados unidos)
+STW	Paja
+SW	Número de madejas
+SX	Envío
+SYR	Jeringuilla
+T0	Linea de telecomunicaciones en servicio
+T1	Mil libras
+T3	Mil pedazos
+T4	Bolsa de mil
+T5	Mil envolturas
+T6	Mil galones (US)
+T7	Impresión de mil
+T8	Mil pulgadas lineales
+TA	Décimo de pie cúbico
+TAB	Tonelada de registro bruto
+TAH	Kiloamperio-hora (milamperio-hora)
+TAN	Número de acido total
+TC	Camión
+TD	Termico
+TE	Totalizador
+TF	Diez yardas cuadradas
+TI	Mil pulgadas cuadradas
+TIC	"Tonelada métrica, incluido el contenedor"
+TIP	"Tonelada métrica, incluido el embalaje interior"
+TJ	Mil centímetros cuadrados
+TKM	Tonelada kilometro
+TL	Mil pies (lineal)
+TMS	"Kilogramo de carne importada, menos despojos"
+TNE	Tonelada (tonelada métrica)
+TP	Paquete de diez
+TPI	Dientes por pulgada
+TPR	Decenas de pares
+TQ	Mil pies
+TQD	Mil metros cúbicos por día 
+TR	Diez pies cuadrados
+TRL	Trillones (eur)
+Ts	Mil pies cuadrados
+TSD	Tonelada de sustancia 90% seca
+TSH	Tonelada de vapor por hora
+TST	Decena de conjuntos
+TT	Mil metros lineales
+TTS	Decenas de millar de pegatinas
+Tu	Contenedor externo
+TV	Mil kilogramos
+TW	Mil hojas
+U1	Tratamiento 
+U2	Número de tabletas
+UA	Torr
+UB	Linea de telecomunicaciones en servicio promedio 
+UC	Puerto de telecomunicaciones 
+UD	Décimo minuto
+UE	Hora de décimo
+UF	Uso por línea de telecomunicaciones promedio
+UH	Diez mil yardas
+UM	Millón de unidades
+UN	Newton metro
+VA	Voltio-amperio por kilogramo
+VLT	Voltio
+VP	Volumen porcentual 
+VS	Visita
+W2	Kilo húmedo 
+W4	Dos semanas
+WA	Watt por kilogramo 
+WB	Libra húmeda
+WCD	Cable
+WE	Tonelada húmeda 
+WEB	Weber
+WEE	Semana
+WG	Galón de vino
+WH	Rueda
+WHR	Watt hora
+WI	Peso por pulgada cuadrada
+WM	Mes de trabajo 
+WR	Envolver
+WSD	Estándar
+WTT	Watt
+WW	Mililitro de agua
+X1	Cadena de gunter
+X1A	Tambor de acero
+X1B	Tambor de aluminio
+X1D	Tambor contrachapado
+X1F	Contenedor flexible
+X1G	Tambor de fibra
+X1w	Tambor de madera
+X2C	Barril de madera
+X3A	Bidón de acero
+X3H	Bidón de plástico
+X43	Bolsa de gran tamaño
+X44	Bolsa de plastico
+X4A	Caja de acero
+X4B	Caja de aluminio
+X4C	Caja de  madera natural
+X4D	Caja de contrachapado
+X4F	Caja de madera reconstituida
+X4G	Caja de cartón
+X4H	Caja de plástico
+X5H	Bolsa de plástico tejido
+X5L	Bolsa textil
+X5M	Bolsa de papel
+X6H	"Recipiente de plástico, Contenedor compuesto."
+X6P	"Recipiente de vidrio, Contenedor compuesto."
+X7A	Estuche para carro
+X7B	Estuche de madera
+X8A	Pallet de madera
+X8B	Cajón de madera
+X8C	Madera flejada
+XAA	Contenedor intermedio  para gráneles de plástico rígido
+XAB	Contenedor de fibra
+XAC	Contenedor de papel
+XAD	Contenedor de madera
+XAE	Aerosol
+XAF	"Pallet modular con collares,  80cms * 60cms"
+XAG	Pallet o empaquetado
+XAH	"Pallet, 100cms X 110cms"
+XAI	Contenedor tipo concha
+XAJ	Cono
+XAL	Esféra
+XAM	Ampolleta no protegida
+XAP	Ampolleta protegida
+XAT	Atomizador
+XAV	Cápsula
+XB4	Cinturón
+XBA	Barril
+XBB	Bobina
+XBC	Cajón para botellas / Estante para botellas
+XBD	Tablero
+XBE	Flejado
+XBF	Globo no protegido
+XBG	Bolso
+XBH	Manojo
+XBI	Compartimiento
+XBJ	Cubeta
+XBK	Cesta
+XBL	Paca comprimida
+XBM	Cuenco
+XBN	Paca no comprimida
+XBO	Botella no-protegida y cilíndrica
+XBP	Globo protegido
+XBQ	Botella cilíndrica protegida
+XBR	Barra
+XBS	"Botella, no-protegida en forma de bulbo"
+XBT	Rollo de tela
+XBU	Butt
+XBV	Botella de bulbo protegido
+XBW	Caja para líquidos
+XBX	Caja
+XBY	"Tablero, con fleje/ agrupados/ armados"
+XBZ	"Barras, con fleje/ agrupados/ armados"
+XCA	Lata rectangular
+XCB	Cajón para cerveza
+XCC	Mantequera
+XCD	Lata con mango y boquilla
+XCE	Cesto tejido
+XCF	Cofre
+XCG	Contenedor tipo Jaula
+XCH	Cajonera
+XCI	Frasco
+XCJ	Ataúd
+XCK	Barrica
+XCL	Espiral
+XCM	Paquete de tarjetas
+XCN	"Contenedor, no especificado como equipo de transporte"
+XCO	Garrafón no protegido
+XCP	Garrafón protegido
+XCQ	Cartucho
+XCR	Cajón
+XCS	Estuche
+XCT	Cartón
+XCU	Vaso
+XCV	Cubierta
+XCW	Jaula estilo rodillo
+XCX	Lata cilíndrica
+XCY	Cilindro
+XCZ	Lona
+XDA	Cajón multicapa de plástico
+XDB	Cajón de varias capas de madera
+XDC	Cajón multicapa de cartón
+XDG	"Jaula, Según la clasificación de la compañía (Commonwealth Handling Equipment Pool (CHEP))"
+XDH	"Caja, Según la clasificación de la compañía (CHEP), Eurobox"
+XDI	Tambor de hierro
+XDJ	"damajuana o garrafa, no protegido"
+XDK	"Cajón a granel, cartón"
+XDL	Cajas de plástico
+XDM	Cajones a granel de madera
+XDN	Dispensador
+XDP	"damajuana o garrafa, protegido"
+XDR	Tambor
+XDS	Bandeja de una capa sin cubierta y de plástico
+XDT	Bandeja de una capa sin cubierta y de madera
+XDU	Bandeja de una capa sin cubierta y  poliestireno
+XDV	Bandeja de una capa sin cubierta y de cartón
+XDW	Bandeja de dos capas sin tapa y con bandeja de plástico
+XDX	Bandeja de dos capas sin cubierta y de madera
+XDY	Bandeja de dos capas sin cubierta y de cartón
+XEC	Bolsa de plástico
+XED	"Estuche, con pallet de base"
+XEE	"Estuche, con pallet base de madera"
+XEF	"Estuche, con pallet base de cartón"
+XEG	"Estuche, con pallet base de plástico"
+XEH	"Estuche, con pallet base de metal"
+XEI	Estuche isotérmico
+XEN	Sobre
+XFB	Bolsa flexible
+XFC	Cajón para fruta
+XFD	Cajón enmarcado
+XFE	Tanque flexible
+XFI	Firkin
+XFL	Matraz
+XFO	Cajón para zapatos
+XFP	Caja auxiliar para película fotográfica
+XFR	Marco
+XFT	Contenedor para alimentos
+XFW	Carro de cama plana
+XFX	Bolsa flexible tipo contenedor
+XGB	Botella para gas
+XGI	Viga
+XGL	Contenedor tipo galón
+XGR	Recipiente de vidrio
+XGU	Bandeja contenedor para apilar horizontalmente objetos planos
+XGY	Costal de Yute
+XGZ	Vigas con correas o agrupadas
+XHA	Cesta con mango y de plástico
+XHB	Cesta con mango y de madera
+XHC	Cesta  con asa y de  cartón
+XHG	Hogshead
+XHN	Gancho
+XHR	Cesto
+XIA	Paquete con pantalla y de madera
+XIB	Paquete  con pantalla y de cartón
+XIC	Paquete con pantalla y de plástico
+XID	Paquete con pantalla y de metal
+XIE	Paquete de mostrador.
+XIF	Envase para alimentos
+XIG	Paquete envuelto en papel
+XIH	Tambor de plástico
+XIK	Paquete de cartón con los agujeros para botellas
+XIL	Bandeja rígida con tapa y apilable (CEN TS 14482: 2002)
+XIN	Lingote
+XIZ	Lingotes  con correas/ agrupados
+XJB	Bolsa jumbo
+XJC	Bidón rectangular
+XJG	Jarra
+XJR	Tarro
+XJT	Bolsa de yute
+XJY	"Bidón, cilíndrico"
+XKG	Barrilete
+XKI	Kit (Conjunto de piezas)
+XLE	Valijas
+XLG	Bitacora
+XLT	Lote
+XLU	Caja de arrastre
+XLV	Contenedor pequeño
+XLZ	Registros  con fleje/ agrupados/ armados
+XMA	Cajón metálico
+XMB	Múltiplo de bolsas
+XMC	Cajón para leche
+XME	Contenedor de metal
+XMR	Recipiente de metal
+XMS	Saco milti-pared
+XMT	Tapete
+XMW	Contenedor envuelto en plástico
+XMX	Caja pequeña de cerillos
+XNA	No disponible
+XNE	Sin empaque o no empaquetado
+XNF	"Sin empaque o no empaquetado, unidad simple"
+XNG	"Sin empaque o no empaquetado, unidades múltiples"
+XNS	Caja nido
+XNT	Red
+XNU	Red de plástico con tubo
+XNV	Red textil con tubo
+XOA	"Pallet, Según la clasificación de la compañía (Commonwealth Handling Equipment Pool (CHEP) 40 cm x 60 cm"
+XOB	"Pallet, Según la clasificación de la compañía (Commonwealth Handling Equipment Pool (CHEP) 80 cm x 120 cm"
+XOC	"Pallet, Según la clasificación de la compañía (Commonwealth Handling Equipment Pool (CHEP) 100 cm x 120 cm"
+XOD	"Pallet, AS 4068-1993"
+XOE	"Pallet, ISO T11"
+XOF	"Plataforma, peso o dimensión no especificada"
+XOK	Bloque
+XOT	Octabin
+XP2	Charola
+XPA	Cajetilla
+XPB	"Pallet, Caja combinada y abierta con caja y pallet."
+XPC	Paquete postal
+XPD	Pallet modular con collares (80cms * 100cms)
+XPE	Pallet modular con collares (80cms * 120cms)
+XPF	Corral
+XPG	Placa
+XPH	Cantaro
+XPI	Pleca
+XPJ	Canastilla
+XPK	Paquete
+XPL	Balde
+XPN	Tablón
+XPO	Bolsa pequeña
+XPR	Contenedor de plástico
+XPT	Maceta
+XPU	Cacerola
+XPV	"Tubos, con fleje/ agrupados/ armados"
+XPX	Pallet
+XPY	Placas con fleje/ agrupados/ armados
+XPZ	Tablones con fleje/ agrupados/ armados
+XQA	Tambor de acero con cabeza no desmontable
+XQB	Tambor de  acero con cabeza extraíble
+XQC	Tambor de aluminio con cabeza no extraíble
+XQD	Tambor de aluminio con cabeza extraíble
+XQF	"Tambor, plástico con cabeza no desmontable"
+XQG	"Tambor, plástico, cabeza extraíble"
+XQH	Barril de madera con tapón
+XQJ	Barril de madera con cabeza desprendible
+XQK	Bidón de acero con cabeza no desmontable
+XQL	Bidón de acero con cabeza desmontable
+XQM	Bidón de plástico con cabeza no desmontable
+XQN	Bidón de plástico con cabeza extraíble
+XQP	Caja de madera natural estándar
+XQQ	Caja de madera natural con muros a prueba de filtraciones
+XQR	Caja de plástico expandida
+XQS	Caja de plástico sólida
+XRD	Rod
+XRG	Anillo
+XRJ	"Estante, Perchero para ropa"
+XRK	Estante
+XRL	Carrete
+XRO	Rollo
+XRT	Red Roja
+XRZ	Varillas  con fleje/ agrupados/ armados
+XSA	Saco
+XSB	Losa
+XSC	Cajón poco profundo
+XSD	Huso
+XSE	Baúl
+XSH	Bolsa pequeña hermética
+XSI	Patín
+XSK	Carcasa esqueleto
+XSL	Hoja de deslizamiento
+XSM	Hoja de metal
+XSO	Carrete pequeño
+XSP	Hoja de empaque de plástico
+XSS	Cajón de acero
+XSU	Maleta
+XSV	Sobre de acero
+XSW	Envoltorio
+XSY	Manga
+XSZ	Hojas  con fleje/ agrupados/ armados
+XT1	Tableta
+XTB	Tina
+XTC	Caja para té
+XTD	Tubo plegable
+XTG	Contenedor de tanque genérico
+XTI	Tierce
+XTK	Tanque rectangular
+XTL	Tina con tapa
+XTN	Hojalata
+XTO	Tonel
+XTR	Maletero
+XTS	Estructura
+XTT	Bolsa de mano
+XTU	Tubo
+XTV	Tubo con boquilla
+XTW	Pallet tricapa
+XTY	Tanque cilíndrico
+XTZ	Tubos  con fleje/ agrupados/ armados
+XUC	Sin empaque
+XUN	Unidad
+XVA	Tanque
+XVG	"Tanque de gas (a 1,031 mbar y 15° C)"
+XVI	Frasco pequeño
+XVK	Paquete transportable
+XVL	Contenedor para líquidos a granel
+XVN	Vehículo
+XVO	"Contenedor para sólido de partículas grandes a granel (""nódulos"")"
+XVP	Envasado al vacío
+XVQ	Tanque para Gas licuado (a temperatura / presión anormal)
+XVR	Contenedor para sólidos de partículas granulares a granel (Granos)
+XVS	Contenedor de chatarra a granel
+XVY	"Contenedor para sólido de partículas finas a granel (""polvos"")"
+XWA	Contenedor de granel intermedio
+XWB	Botella de mimbre
+XWC	Contenedor intermedio para gráneles y de acero
+XWD	Contenedor intermedio para gráneles y de aluminio
+XWF	Contenedor intermedio para gráneles y de metal
+XWG	Contenedor intermedio para gráneles y de acero presurizado menor a 10 kpa
+XWH	"Contenedor intermedio para gráneles y de aluminio, presurizado menor a 10 kpa"
+XWJ	Contenedor intermedio para gráneles y de metal con una presión de 10 kpa
+XWK	Contenedor intermedio para gráneles y de acero para líquido
+XWL	Contenedor intermedio para gráneles y de aluminio para líquido
+XWM	Contenedor intermedio para gráneles y de metal para líquido
+XWN	Contenedor intermedio para gráneles con tejido plástico sin capa con revestimiento
+XWP	Contenedor intermedio para gráneles con tejido plástico y recubierto
+XWQ	Contenedor intermedio para gráneles con tejido plástico con revestimiento
+XWR	"Contenedor intermedio para gráneles con tejido plástico, revestido y con forro"
+XWS	Contenedor intermedio para gráneles con película de plástico
+XWT	Contenedor intermedio para gráneles textil sin capa / forro
+XWU	Contenedor intermedio para gráneles de madera natural con forro interior
+XWV	Contenedor intermedio para gráneles textil recubierto
+XWW	Contenedor intermedio para gráneles textil con revestimiento
+XWX	Contenedor intermedio para gráneles textil recubierto y con forro
+XWY	Contenedor intermedio para gráneles contrachapado con revestimiento interior
+XWZ	Contenedor intermedio para gráneles de madera reconstituida con revestimiento interior
+XXA	"Bolsa de tejido plástico, sin abrigo interior ni forro"
+XXB	Bolsa de tejido plástico a prueba de filtraciones
+XXC	Bolsa de tejido plástico resistente al agua
+XXD	Bolsa con película de plástico
+XXF	Bolsa textil sin capa ni forro interior
+XXG	Bolsa textil a prueba de filtraciones
+XXH	Bolsa textil resistente al agua
+XXJ	Bolsa de papel multi-pared
+XXK	"Bolsa de papel multi-pared, resistente al agua"
+XYA	"Empaque compuesto, recipiente de plástico en tambor de acero"
+XYB	"Empaque compuesto, recipiente de plástico en cajas de acero"
+XYC	"Empaque compuesto, recipiente de plástico en tambor de aluminio"
+XYD	"Empaque compuesto, recipiente de plástico en cajón de aluminio"
+XYF	"Empaque compuesto, recipiente de plástico en caja de madera"
+XYG	"Empaque compuesto, recipiente de plástico en tambor de madera contrachapada"
+XYH	"Empaque compuesto, recipiente de plástico en caja de madera contrachapada"
+XYJ	"Empaque compuesto, recipiente de plástico en tambor de fibra"
+XYK	"Empaque compuesto, recipiente de plástico en caja de cartón"
+XYL	"Empaque compuesto, recipiente de plástico en el tambor de plástico"
+XYM	"Empaque compuesto, recipiente de plástico en caja de plástico sólido"
+XYN	"Empaque compuesto, receptáculo de vidrio en tambor de acero"
+XYP	"Empaque compuesto, receptáculo de vidrio en caja de cajas de acero"
+XYQ	"Empaque compuesto, recipiente de vidrio en tambor de aluminio"
+XYR	"Empaque compuesto, receptáculo de vidrio en caja de aluminio"
+XYS	"Empaque compuesto, recipiente de vidrio en caja de madera"
+XYT	"Empaque compuesto, recipiente de vidrio en tambor de madera contrachapada"
+Xyv	"Empaque compuesto, recipiente de vidrio en el cesto de mimbre"
+XYW	"Empaque compuesto, recipiente de vidrio en tambor de fibra"
+XYX	"Empaque compuesto, recipiente de vidrio en caja de cartón"
+XYY	"Empaque compuesto, recipiente de vidrio en paquete de plástico expandible"
+XYZ	"Empaque compuesto, recipiente de vidrio en paquete de plástico sólido"
+XZA	"Contenedor de granel intermedio, papel, multi-pared"
+XZB	Bolsa grande
+XZC	"Contenedor intermedio para gráneles de papel, multi-pared y resistente al agua"
+XZD	"Contenedor intermedio para gráneles de plástico rígido, con equipo estructural para sólidos"
+XZF	"Contenedor intermedio para gráneles de plástico rígido, autoportante para sólidos"
+XZG	"Contenedor intermedio para gráneles de plástico rígido, con equipo estructural, presurizado"
+XZH	"Contenedor intermedio para gráneles de plástico rígido, autoportante y presurizado"
+XZJ	"Contenedor intermedio para gráneles de plástico rígido, con equipo estructural para líquidos"
+XZK	"Contenedor intermedio para gráneles de plástico rígido, autoportante, líquidos"
+XZL	"Contenedor intermedio para gráneles, compuesto y de plástico rígido, sólidos"
+XZM	"Contenedor intermedio para gráneles, compuesto y de plástico flexible, sólidos"
+XZN	"Contenedor intermedio para gráneles, compuesto y de plástico rígido, presurizado"
+XZP	"Contenedor intermedio para gráneles, compuesto y de plástico flexible, presurizado"
+XZQ	"Contenedor intermedio para gráneles, compuesto y de plástico rígido, líquidos"
+XZR	"Contenedor intermedio para gráneles, compuesto y de plástico flexible para líquidos"
+XZS	"Contenedor intermedio para gráneles, compuesto"
+XZT	Contenedor intermedio para gráneles con tablero de fibras
+XZU	Contenedor intermedio para gráneles flexible
+XZV	"Contenedor intermedio para gráneles de metal, distinto del acero"
+XZW	"Contenedor intermedio para gráneles, de madera natural"
+XZX	"Contenedor intermedio para gráneles, de contrachapado"
+XZY	"Contenedor intermedio para gráneles, de madera reconstituida"
+YDK	Yarda cuadrada
+YDQ	Yarda cúbica
+YL	Cien yardas lineales
+YRD	Yarda
+YT	Diez yardas
+Z1	Furgoneta
+Z11	Contenedor colgante 
+Z5	Arrastre
+Z6	Punto de conferencia
+Z8	Página de noticias
+ZP	Páginas
+ZZ	Mutuamente definido
